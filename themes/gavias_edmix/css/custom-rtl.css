@@ -1,0 +1,180 @@
+body {
+  font-size: 16px;
+}
+
+.branding-logo .logo-img {
+  margin-left: 20px;
+}
+#block-mainnavigation .gva_menu_main li a{
+  text-align: right !important;
+  font-size: 16px; 
+}
+
+.why-faculty-section .why-faculty-content .why-study .why-study-left button {
+  right: 90px;
+}
+.why-faculty-section .why-faculty-content .why-study-img {
+  left: -227px;
+  right: unset;
+}
+.recent-news-section .news-main-content .news-sec .news-item .news-content {
+  margin: 0 20px 0 0;
+}
+#top_header_menu_div #block-topheadermenu .block-content ul li:last-child::before {
+  right: -22px;
+}
+.top-bar-navigation .top-bar-content .topbar-right #top_bar_user .login_link {
+  margin-left: 0;
+  margin-right: 30px;
+}
+.top-bar-navigation .top-bar-content .topbar-right #top_bar_user .login_link:after {
+  left: unset;
+  right: -20px;
+}
+.adminstration-section .adminstration-content .main-content:before {
+  left: unset;
+  right: -20px;
+}
+/* start footer */
+#footer .university-footer-logo{
+  display: flex;
+  align-items: center;
+}
+#footer .university-footer-logo .univ-name{
+  margin-right: 20px;
+}
+#footer .university-footer-logo .univ-name h2{
+  margin: 0;
+}
+.footer-third .footer-social h2 {
+ margin: 10px 0 ;
+ text-align: right !important;
+}
+#footer .footer-social ul li{
+  padding: 5px 0px 10px 10px;
+}
+.Copyright{
+  display: flex;
+}
+.copyright .Copyright_links{
+  margin-right: 20px;
+  display: flex;
+}
+.copyright .Copyright_links a{
+  color: #FFF;
+  display: block;
+  margin: 0 10px;
+}
+#top_bar_info .field--type-text-with-summary span{
+  margin-left: 20px;
+}
+.navigation .gva_menu .sub-menu {
+    right: 0;
+    left: unset;
+  }
+  .recent-events-section .recent-events-content .our-events .event-item .event-img {
+    margin-right: unset;
+    margin-left: 20px;
+  }
+  /* top header */
+  header.header-v2 #block-topheadermenu .gva_menu > li > a::after, header.header-v1 #block-topheadermenu .gva_menu > li > a::after {
+    display: none;
+  }
+  header.header-v2 .navigation .gva_menu > li:first-child > a::after,
+header.header-v1 .navigation .gva_menu > li:first-child > a::after {
+    display: none;
+}
+header.header-v2 .navigation .gva_menu > li:last-child > a::after,
+header.header-v1 .navigation .gva_menu > li:last-child > a::after {
+    display: block;
+}
+/* about us  */
+.doctoral .stick-top .section-content .sec-header-stick h3 {
+  text-align: right;
+}
+/* events and news */
+.event-block-2 .event-image {
+  margin-right: 0;
+}
+.news-archive #views-exposed-form-news-archive-page-1 .js-form-item label {
+  margin-right: 0;
+  margin-left: 10px;
+}
+
+@media (min-width: 768px) {
+  .event-block-2 .event-image {
+    margin-left: 30px;
+  }
+  .recent-news-block {
+    min-height: 530px;
+  }
+}
+/* side menu  */
+.tp-caption {
+  float: right;
+}
+.tp-caption p,
+.tp-caption span {
+  text-align: right;
+  float: right;
+}
+/* new */
+.footer-third .footer-social p {
+  text-align: right;
+}
+.footer-fac-info .fac-brief .fac-name {
+  margin-right: 12px;
+  margin-left: unset;
+}
+.footer-fac-info .university-logo .uni-name {
+  margin-right: 12px;
+  margin-left: unset;
+}
+.faculty-departments-section .faculty-department-content .department-items .department-item:last-child:after {
+  display: block;
+}
+.faculty-departments-section .faculty-department-content .department-items .department-item:first-child:after {
+  display: none;
+}
+.view-staff-page #views-exposed-form-department-members-block-1 {
+  justify-content: space-evenly;
+}
+ul[data-drupal-views-infinite-scroll-pager].pager a {
+  background: var(--main-color);
+  color: #fff;
+  border: 2px solid var(--main-color);
+  padding: 5px 10px;
+}
+ul[data-drupal-views-infinite-scroll-pager].pager a:hover, ul[data-drupal-views-infinite-scroll-pager].pager a:active, ul[data-drupal-views-infinite-scroll-pager].pager a:focus {
+  background: #fff;
+  color: var(--main-color);
+}
+.sidebar-inner .gva_menu .menu-item a {
+  text-align: right !important;
+  padding: 25px 20px 20px 0px !important;
+}
+.lab-img {
+  display: flex;
+}
+.lab-img img:first-child {
+ order: 2;
+}
+@media (min-width: 992px) {
+  .col-md-pull-9 {
+    left: 75%;
+    float: right;
+    right: unset;
+  }
+  .col-md-push-3 {
+    right: 25%;
+    left: unset;
+    float: right;
+  }
+}
+.according-title {
+  display: flex;
+  align-items: center;
+}
+.according-title h3 {
+  margin-right: 20px ;
+}

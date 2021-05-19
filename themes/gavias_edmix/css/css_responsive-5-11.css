@@ -1,0 +1,754 @@
+@media (max-width: 768px) {
+  .home_page_search .views-exposed-form .form-item {
+    width: 100%;
+  }
+  #views-exposed-form-fast-search-fast-search .js-form-item:first-child select {
+    margin-left: 45px;
+  }
+  #block-topheadermenu a {
+    font-size: 11px !important;
+  }
+  .padding-img p:first-child {
+    font-size: 25px;
+  }
+  .padding-img {
+    padding-top: 90px;
+    padding-left: 70px;
+  }
+  .padding-img a {
+    font-size: 12px;
+  }
+  .breadcrumb-content-main h2 {
+  font-size: 27px;
+  }
+  .footer-first, .footer-third, .footer-four {
+    display: none;
+  }
+  .footer ul.menu > li {
+    margin-bottom: 0px;
+  }
+  #block-facultycampinfo #home_counter_div .first-statistic .milestone-icon {
+    width: 100%;
+  }
+  #block-facultycampinfo #home_counter_div .first-statistic .milestone-right {
+    width: 100%;
+    margin-top: 0px;
+  }
+  #block-facultycampinfo #home_counter_div .first-statistic .milestone-right .milestone-text {
+    font-size: 17px
+  }
+  .tp-caption span {
+    font-size: 27px;
+  }
+  .breadcrumb-content-inner .gva-breadcrumb-content .page-title {
+    font-size: 30px;
+  }
+  .gva_menu ul li a {
+    text-align: center;
+  }
+  #block-searchform .form-search {
+    width: 100%;
+  }
+}
+@media (max-width: 991px) {
+  #block-views-block-news-block-1 .item {
+    margin: 0 25px;
+  }
+  .about-text {
+    margin-top: 0px;
+  }
+  .sidebar-inner #block-departmentsidemenu .content .field .gva_menu .menu-item--active-trail:before {
+    left: 0;
+    margin-top: 2%;
+  }
+  .footer-first, .footer-third, .footer-four {
+    display: none;
+  }
+  #block-topbarinfo .content.block-content {
+    float: left;
+  }
+  .p-static #search_div .search-block-form form div input {
+    float: none;
+    width: 60%;
+  }
+  #home_counter_div  .widget.milestone-block.position-icon-left .milestone-right {
+    min-height: 130px
+  }
+  .sidebar {
+    width: 100%;
+  }
+  .theiaStickySidebar {
+    margin: 0 0 20px 0;
+  }
+
+  #top_header_img_div {
+    float: none;
+  }
+  .branding a img {
+    width: 45%;
+  }
+  #block-topheadermenu .gva_menu > li:after {
+    height: 0 !important;
+  }
+  .p-static #search_div .search-block-form form {
+    text-align: center;
+  }
+  .p-static #top_header_img_div img {
+    float: none;
+  }
+  .p-static #top_header_img_div {
+    text-align: center;
+  }
+  .home-news-block .views-field .field-content a img {
+    width: 100%;
+    max-height: 250px;
+  }
+  .main-menu .gva_menu > li.menu-item--active-trail {
+    color: #00CEFF;
+  }
+  #block-views-block-news-block-1 .views-field-body {
+    min-height: 0px;
+  }
+  #block-views-block-news-block-1 .views-field-title {
+    min-height: 0px;
+  }
+ .footer-top .navigation .gva_menu > li:after  {
+    display: none;
+  }
+  table {
+    max-width: 90%;
+  }
+  .sidebar .block-menu ul li.menu-item--active-trail:before {
+    display: none;
+  }
+  .phd-slider .owl-nav .owl-prev {
+    position: absolute !important;
+    left: -280px;
+  }
+  .phd-slider .owl-nav .owl-next {
+    position: absolute !important;
+    left: 20px;
+  }
+  #header .gbb-row-wrapper {
+    display: none;
+  }
+  .topbar {
+    margin-bottom: 0px;
+  }
+  #menu-bar {
+    top: -20px;
+    right: 0px;
+  }
+  #block-topbarinfo .content .field span:first-child {
+    display: none;
+  }
+  .topbar-right {
+    display: none;
+  }
+  #top_bar_lang {
+    float: right;
+  }
+  .block-content .gva_menu {
+    list-style: none;
+    float: right;
+  }
+  .block-content .gva_menu {
+    padding: 0;
+    float: none;
+  }
+  #top_header_img_div {
+    float: none ;
+  }
+  #top_header_menu_div nav {
+    margin: 0;
+  }
+}
+@media (min-width: 991px) and (max-width: 2000px) {
+  .department-block .views-field-field-department-image img {
+    width: 100%;
+  }
+}
+@media (min-width: 991px) and (max-width: 1200px) {
+  .fa-search {
+   left: 90px;
+  }
+  .footer .col-md-3 {
+      width: 43%;
+  }
+  .footer .col-md-2 {
+      width: 56.66667%;
+  }
+  .footer .col-md-2 {
+    width: 50.66667%;
+  }
+  .navigation .gva_menu > li.menu-item--active-trail > a, header .navigation .gva_menu > li a:hover, .footer li a:hover {
+	  color : #fff !important;
+	  font-weight: bolder;
+  }
+  .topbar-right {
+    float: right !important;
+  }
+}
+@media (min-width: 1200px) {
+  .fa-search {
+   right: 15px;
+  }
+  .footer .col-lg-2 {
+      width: 40%;
+  }
+  .footer .col-lg-3 {
+    width: 33%;
+  }
+  .col-lg-6 {
+    width: 48%;
+  }
+  .footer .col-lg-2 {
+    width:40%;
+  }
+  .footer .col-lg-4 {
+    width: 24.33333%;
+  }
+
+  header .area-main-menu .navigation ul.gva_menu {
+	width: 100% !important;
+  }
+  header.header-v1 .header-inner{
+	  padding-right : 0px !important;
+  }
+}
+@media (max-width: 1200px) {
+  .footer-top .navigation .gva_menu > li {
+    padding: 0;
+  }
+  .footer-top .navigation .gva_menu > li a {
+    font-size: 13px;
+  }
+  #block-searchform .form-search {
+    width: 75% !important;
+  }
+  .news-archive .views-exposed-form .form-item {
+    display: block;
+    width: 90%;
+    margin: 0 auto 25px auto;
+  }
+  .news-archive .views-exposed-form .form-item label {
+    margin-right: 2%;
+    width: 20%;
+  }
+  .news-archive .form-actions#edit-actions {
+    display: block;
+    margin: auto;
+    float: none;
+
+  }
+  .news-archive .views-exposed-form .form-item input {
+    width: 70%;
+  }
+}
+@media (max-width: 992px) {
+  #block-searchform .form-search {
+    margin-right: 10px;
+  }
+  #why_btn_link a {
+      font-size: 20px;
+}
+}
+@media (max-width: 991px) {
+  .home-page-welcome-img {
+    margin: auto !important;
+    float: none;
+  }
+  #block-homepagewelcome .bb-container #why_div{
+    margin: 0;
+    width: 100%;
+
+  }
+  #block-homepagewelcome .bb-container #why_div .gsc-column{
+    width: 50%;
+    margin: auto;
+    float: none;
+  }
+  .two-sec-image{
+    border: none !important;
+  }
+  .excellence-in-page .two-sec-image img{
+    margin-top: 40px;
+  }
+  .students-projects #edit-submit-students-projects {
+    margin-left: 0;
+  }
+  .students-projects form {
+    margin-left: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+} 
+@media (max-width: 768px) {
+  .item-columns .home-news-block-last-one .news-info{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+  }
+  .gva-view-grid .gva-view-grid-inner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0px;
+}
+.gva-view-grid .gva-view-grid-inner .item-columns {
+  margin: auto;
+  text-align: center;
+}
+}
+@media (max-width: 576px) {
+  .gavias-blockbuilder-content .gva-view-grid-inner .item-columns{
+    width: 100%;
+  }
+  .gavias-blockbuilder-content .gva-view-grid-inner .item-columns .home-news-block-last-two{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .home-news-block-last-two .views-field-field-news-image {
+    height: 208px;
+    width: 246px;
+    margin-bottom: 47px;
+  }
+  #block-homepagewelcome .bb-container #why_div .gsc-column {
+    width: 85%;
+  }
+  .widget.gsc-icon-box.left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .doctoral-and-master-page .node__content .field--type-text-with-summary{
+    padding: 20px;
+  }
+  #views-exposed-form-students-projects-page-1 .form-item.form-item-title {
+    width: 69%;
+    text-align: center;
+    padding-right: 0;
+  }
+  .students-projects #edit-submit-students-projects {
+    width: 167px;
+    margin: auto;
+    display: block;
+  }
+  #block-gavias-edmix-content .view-content-wrap .item .event-block-2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  #block-gavias-edmix-content .view-content-wrap .item .event-block-2 .content-inner {
+    padding: 0;
+    text-align: center;
+  }  
+}
+@media (max-width: 500px) {
+  .block-dropdown-language .dropbutton-wrapper ul.dropbutton {
+    right: 82px;
+  }
+  .topbar a {
+    font-size: 12px;
+    padding-right: 0px !important;
+  }
+  #top_bar_info span {
+    padding-right: 0px;
+  }
+  #top_bar_info {
+    padding: 0px;
+  }
+  #page-main-content .field__item h2 {
+    font-size: 13px;
+  }
+  h3 b {
+    font-size: 14px;
+  }
+  #block-views-block-projects-block-1 .block-title span, #block-views-block-faculty-management-block-1 .block-title span {
+    font-size: 14px;
+  }
+  p {
+    font-size: 13px;
+  }
+  #home_counter_div .col-lg-3 {
+    width: 100%;
+  }
+  body {
+    font-size: 13px;
+  }
+  h3 {
+    font-size: 15px;
+  }
+  h4 {
+    font-size: 14px;
+  }
+  h3 strong {
+    font-size: 14px;
+  }
+  .about-img  {
+    padding: 10px;
+  }
+  .news_home_more {
+    float: none;
+    text-align: center;
+  }
+  .faded-section .widget .title-desc {
+    padding: 0px 10px;
+  }
+  #why_btn_link a {
+    font-size: 16px;
+  }
+  .home-events a {
+    font-size: 13px;
+  }
+  .fa-search {
+    left: 90px;
+  }
+  .padding-img {
+    padding-left: 0px;
+    text-align: center;
+  }
+  .padding-img p:first-child {
+    font-size: 20px;
+  }
+  .padding-img a {
+    font-size: 10px;
+  }
+  .event-block-2 .event-image {
+    width: 100%;
+  }
+  .event-block-2 .content-inner {
+    padding-left: 0px;
+  }
+  .student-success-view .team-image {
+    width: 100%;
+  }
+  .student-success-view .team-image img {
+    max-height: 250px;
+    width: 100%;
+  }
+  .student-success-view .team-content {
+    width: 100%;
+  }
+  .breadcrumb-content-inner .container {
+    text-align: center;
+  }
+  .breadcrumb-content-inner .gva-breadcrumb-content .page-title {
+    font-size: 24px;
+  }
+  .departments-page-view .gva-view-grid-inner > .item-columns {
+    width: 100%;
+  }
+  .departments-page-view .gva-view-grid-inner > .item-columns img {
+    width: 100%;
+  }
+}
+@media (max-width: 600px) {
+  .recent-news-page .gva-view-grid .gva-view-grid-inner > .item-columns {
+    width: 100%;
+    padding: 0 15%;
+  }
+  .recent-news-page .gva-view-grid .gva-view-grid-inner > .item-columns img {
+    max-height: 250px;
+  }
+}
+@media (max-width: 1200px) and (min-width: 991px) {
+  .recent-news-page .gva-view-grid .gva-view-grid-inner > .item-columns {
+    width: 50%;
+  }
+  .recent-news-page .gva-view-grid .gva-view-grid-inner > .item-columns img {
+    max-height: 230px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .about-us-page #block-gavias-edmix-content .field--type-text-with-summary .two-sec-image img{
+    margin-left: 40px !important;
+  }
+}
+@media (max-width: 991px) {
+  .about-us-page #block-gavias-edmix-content .field--type-text-with-summary .two-sec-image img{
+    margin: 20px auto !important;
+    display: block;
+  }
+  .about-us-page #block-valuesgoals-2 .field--type-text-with-summary .two-sec-image img{
+    margin: 20px auto !important;
+    display: block;
+  }
+  .field--type-text-with-summary .custom-margin{
+    display: flex;
+    flex-direction: column;
+  }
+  .field--type-text-with-summary .custom-margin .two-sec-caption {
+    order: 2;
+  }
+  .field--type-text-with-summary.custom-margin .two-sec-image{
+    order: 1;
+  }
+  .field--type-text-with-summary .custom-margin .full-content{
+    order: 3;
+  }
+}
+@media (max-width: 767px) {
+  .about-us-page .about-block {
+    width: 113%;
+    margin-left: -7%;
+  }
+}
+@media (max-width: 576px) {
+  .gva-view-grid .gva-view-grid-inner .item-columns {
+    margin: auto auto 40px auto;
+    width: 80%;
+  }
+  .nursing-jops .field--type-text-with-summary{
+    padding: 30px;
+  }
+  .contact-us-page .two-sec-caption p a{
+    font-size: 12px;
+  }
+  .calendars-and-exams-schedules-page .field--type-text-with-summary ul li a{
+    font-size: 14px;
+  }
+}
+@media (max-width: 375px) {
+  #block-homepagewelcome .bb-container #why_div .gsc-column {
+    width: 90%;
+  }
+  #block-departments .department-link {
+    margin-bottom: 0px;
+  }
+  .widget.gsc-heading.style-default .title {
+    font-size: 19px; 
+  }
+  .custom-margin .two-sec-caption ul li {
+    font-size: 12px;
+  }
+  .about-us-page #block-gavias-edmix-content article {
+    padding: 0 0 40px 0;
+  }
+  .gva-view-grid .gva-view-grid-inner .item-columns {
+    width: 100%;
+  }
+  .team-cv {
+    padding-bottom: 20px;
+  }
+  .calendars-and-exams-schedules-page .field--type-text-with-summary ul li a{
+    font-size: 11px;
+  }
+}
+@media (max-width: 375px) {
+  .topbar-left {
+    width: 100%;
+  }
+  #top_bar_lang {
+    float: none;
+    width: 300px;
+    text-align: center;
+    margin-left: 125px;
+  }
+  .item-columns .field-content .news-info p{
+    font-size: 11px !important;       
+  }
+  .widget.gsc-icon-box.left {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  #block-gavias-edmix-content .custom-margin .two-sec-caption p {
+    font-size: 14px;
+  }
+  .widget.gsc-icon-box.left .highlight-icon {
+    padding-right: 0;
+  }
+  .home-events img {
+    max-height: 137px;
+  }
+  .administration-region .administration .two-sec-image img {
+    height: 150px !important;
+    width: 150px;
+  }
+  .excellence-in-page .custom-margin .two-sec-caption p {
+    font-size: 12px !important;  
+  }
+  .excellence-in-page .custom-margin .two-sec-caption ul {
+    padding-left: 0;
+  }
+  .student-funding-support-page .node__content .field--name-body{
+    text-align: center;
+  }
+  .choose-suo .two-sec-image img,
+  .nursing-faculty-handbook-page .two-sec-image img,
+  .international-partnerships-page .two-sec-image img,
+  .international-exchange-page .two-sec-image img,
+  .contact-us-page .two-sec-image img,
+  .students-activities-page .two-sec-image img,
+  .student-council-page .two-sec-image img,
+  .apply-to-study-page .two-sec-image img{
+    margin: 20px 0;
+  }
+  #block-gavias-edmix-content article {
+    padding: 0 10px 39px 10px;
+  }
+  .admission-page #block-admissionrequirements,
+.admission-page #block-transferringstudents{
+  padding: 15px 20px;
+}
+
+}
+
+
+@media (max-width: 320px) {
+  .contact-us-page .two-sec-caption p a{
+    font-size: 10px;
+  }
+}
+@media (max-width: 510px) {
+  #block-topbarinfo .content.block-content {
+    font-size: 14px;
+  }
+}
+@media (min-width: 992px){
+  .footer .col-md-4 {
+    width: 19.33333% !important;
+  }
+  .fa-angle-down{
+	display:none;
+  }
+  #block-views-block-home-page-events-block-1 .view-list-item {
+    width: 48%;
+    float:left;
+    margin: 1%;
+  }
+  .footer .col-md-4 {
+      width: 19.33333% !important;
+  }
+  .sidebar-left .navigation .gva_menu {
+    float: left !important;
+  }
+  #why_div {
+    display: block;
+  }
+  .gsc-carousel-content .owl-nav{
+	bottom: 50%;
+	left: 0px;
+  margin-left: -49px;
+	width: 113%;
+  }
+  .gsc-carousel-content .owl-nav .owl-next{
+	  float: right !important;
+  }
+}
+
+@media (max-width: 480px){
+  #why_div {
+    display: block;
+    margin-left: 0%;
+  }
+  .js-form-item-field-course-level-value ,.js-form-item-field-course-category-target-id  {
+     width: 100%;
+       /* Below 480px the width will be 100% and the images will come in stakced view. */
+  }
+  .footer .col-lg-3,.footer .col-lg-2 , .footer .col-lg-4 {
+    width: 100%;
+    /* Below 480px the width will be 100% and the images will come in stakced view. */
+  }
+  #block-searchform .form-search{
+      width: 100%;
+  }
+  .home-events .highlight-icon {
+    font-size: 18px;
+  }
+}
+@media (min-width: 991px) and (max-width: 1206px) {
+  .navigation .gva_menu > li > a {
+    font-size: 13px;
+  }
+}
+@media (max-width: 786px) {
+  .event-block-2 .event-image {
+    width: 180px;
+  }
+  .event-block-2 .content-inner {
+    padding-left: 200px;
+  }
+}
+@media (max-width: 550px) {
+  #block-gavias-edmix-content .view-content-wrap > .item .content-inner .event-content span {
+    font-size: 14px;
+  }
+  #block-gavias-edmix-content .view-content-wrap > .item .event-date time {
+    font-size: 12px;
+  }
+}
+@media(max-width:320px){
+  .administration-region .block-title span {
+    font-size: 18px !important;
+  }
+  .Copyright a {
+    padding: 0px;
+  }
+  #top_bar_lang {
+    margin-left: 27px;
+  }
+  .topbar a {
+    font-size: 11px;
+  }
+  .item-columns .field-content .news-info p {
+    font-size: 10px !important;
+}
+}
+
+
+
+
+/***************** ar *********************/
+@media(max-width:991px){
+  html[dir='rtl'] .home-page #block-homepagewelcome #why_div .gsc-column {
+    margin-left: 27%;
+  }
+  html[dir='rtl'] .home-page #block-views-block-home-page-events-block-1 .item-list ul li {
+    width: 100%;
+  }
+}
+@media(max-width:767px){
+  .about-us-page .about-block {
+    margin-right: -7%;
+  }
+  .about-us-page #page-main-content .field__item h2 {
+    text-align: center;
+  }
+}
+@media(max-width:576px){
+  html[dir='rtl'] .home-page #block-homepagewelcome #why_div .gsc-column {
+    margin-left: 9%;
+  }
+  html[dir='rtl'] .home-page .home-events .widget.gsc-icon-box.left .highlight-icon {
+    border: none;
+  }
+  html[dir='rtl'] .home-events .widget.gsc-icon-box.left .highlight-icon {
+    padding-left: 0;
+    width: 117px;
+}
+  html[dir='rtl'] .home-page .home-events .widget.gsc-icon-box.left .highlight_content {
+    text-align: center;
+  }
+}
+@media(max-width:375px){
+  html[dir='rtl'] .home-events .widget.gsc-icon-box.left .highlight-icon {
+    width: 144px;
+  }
+  html[dir='rtl'] .home-page #block-homepagewelcome #why_div .gsc-column {
+    margin-left: 6%;
+  }
+}

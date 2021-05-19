@@ -1,0 +1,15 @@
+***************************** Content Import Begins ************************************ 
+ 
+ Langcode missing --- Assuming EN as default langcode.. Import continues  
+ 
+Data Type : title  Matches 
+Data Type : field_student_number  Matches 
+Data Type : field_student_subjects  Matches 
+Data Type : title  Matches 
+Data Type : langcode  Matches 
+********************************* Importing node ****************************  
+ 
+Importing Content (field_student_subjects) ::  Success 
+Importing Content (title) ::  Success 
+********************* Node Imported successfully ********************* 
+

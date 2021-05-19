@@ -1,0 +1,895 @@
+@media(max-width: 1200px) {
+  /* ======================================================
+  ========== Recent Events Section ===========
+  ====================================================== */
+    .recent-events-section .recent-events-content .our-events .event-item .event-content .event-date {
+        font-size: 12px;
+    }
+  /* ======================================================
+  ==========  why faculty content section ===========
+  ====================================================== */
+    .why-faculty-section .why-faculty-content .why-study .why-study-left h3 {
+        font-size: 52px;
+    }
+    .doctorate-program-courses .categories .category .description p {
+        font-size: 12px;
+    }
+    .doctorate-program-courses .doctorate-program-courses-content ul {
+        padding: 0;
+    }
+}
+
+
+
+
+
+@media(max-width: 991px) {
+      /* ======================================================
+  ================= frame work responsive ==================
+  ====================================================== */
+  h2 {
+      font-size: 28px;
+  }
+  :root {
+    --h3-font-size: 28px;
+}
+.stick-top {
+    padding: 1px 40px;
+}
+body {
+    font-size: 14px;
+}
+.bg-white-container {
+    padding: 25px 0;
+    margin: 25px 0;
+}
+.stick-bottom {
+    margin-top: 0;
+}
+.stick-top .section-content .content-img {
+    margin-top: 30px;
+}
+/* fact-sheet */
+.welcome-faculty-section .welcome-faculty-content .side-fact-sheet .fact-sheet { 
+    margin-left: 0;
+    margin-top: 20px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+/* footer top */
+.footer-top .gva_menu {
+    text-align: center;
+}
+.footer-top .gva_menu li {
+    list-style: none;
+}
+/* dean word  */
+.adminstration-section .adminstration-content {
+    margin-bottom: 30px;
+}
+
+  /* ======================================================
+  ======================= Top bar =====================
+  ====================================================== */
+  .top-bar-navigation {
+      font-size: 14px;
+  }
+  /* ======================================================
+  ================== Recent News Home =====================
+  ====================================================== */
+
+  .recent-news-section .news-main-content .two-col-sec {
+      display: block;
+  }
+  .recent-news-section .news-main-content .news-sec .news-item .news-image {
+    height: unset;
+  }
+  /* ======================================================
+  ========== Recent Events Section ===========
+  ====================================================== */
+  .recent-events-section .recent-events-content .our-events .event-item {
+      flex: 0 0 48%;
+      display: block;
+      box-shadow: 1px 1px 15px #777;
+      border-radius: 30px;
+      padding: 30px;
+  }
+  .recent-events-section .recent-events-content .our-events .event-item .event-img {
+      flex: unset;
+      max-height: unset;
+      width: 70%;
+      margin: auto;
+      margin-bottom: 20px;
+  }
+  .recent-events-section .recent-events-content .our-events .event-item .event-img img {
+      height: unset;
+      border: unset;
+      border-radius: unset;
+  }
+  /* ======================================================
+  ========== ADMINISTRATION Section ===========
+  ====================================================== */
+  .adminstration-section .adminstration-content {
+      flex-wrap: wrap;
+  }
+  .adminstration-section .adminstration-content .side-info {
+      flex: 0 0 100%;
+  }
+  .adminstration-section .adminstration-content .main-content {
+      flex: 0 0 100%;
+      margin: 0;
+  }
+  .adminstration-section .adminstration-content .side-info .dean-dean p {
+      text-align: center;
+  }
+  .adminstration-section .adminstration-content .main-content h3 {
+      font-size: 18px;
+  }
+  .adminstration-section .adminstration-content .main-content .dean-signature h4 {
+      font-size: 16px;
+  }
+  .adminstration-section .adminstration-content .main-content .main-btn {
+      display: block;
+      margin: auto;
+  }
+  /* ======================================================
+  ==========  why faculty content section ===========
+  ====================================================== */
+  .why-faculty-section .why-faculty-content .why-study-img {
+      display: none;
+  }
+  .why-faculty-section .why-faculty-content .why-study .why-study-left h3 {
+      font-size: 34px;
+  }
+  .why-faculty-section .why-faculty-content .why-study .why-study-left .bold-caption {
+      font-size: 16px;
+  }
+  .why-faculty-section .why-faculty-content .why-study .why-study-left .caption {
+      font-size: 12px;
+  }
+  /* ======================================================
+================== start about us pages   ===============
+====================================================== */
+
+  .welcome-faculty-section .welcome-faculty-content {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .welcome-faculty-section .welcome-faculty-content .main-content {
+  flex: 0 0 100%;
+  }
+  .faculty-departments-section .faculty-department-content .department-items {
+    flex-wrap: wrap;
+}
+.faculty-departments-section .faculty-department-content .department-items .department-item {
+    flex: 0 0 33%;
+}
+.faculty-departments-section .faculty-department-content .department-items .department-item:nth-child(3):after {
+    display: none;
+}
+/* ======================================================
+  ================== burger menu ========================
+  ====================================================== */
+  .main-menu #menu-bar {
+    background: var(--main-color);
+    border-radius: 3px;
+    top: -170px;
+    right: 0;
+    z-index: 10000;
+  }
+  .stuck .main-menu #menu-bar {
+    top: 15px !important;
+    right: 0;
+  }
+  .main-menu #menu-bar span {
+    background-color: #fff;
+  }
+}
+
+
+
+@media(max-width: 768px) {
+  /* ======================================================
+  ======================= Top bar =====================
+  ====================================================== */
+
+  .top-bar-navigation {
+      font-size: 12px;
+  }
+  .top-bar-navigation .top-bar-content .topbar-right #top_bar_user .login_link:after {
+    display: none;
+}
+  .top-bar-navigation .top-bar-content .social-media-section .social-media {
+      display: none;
+  }
+  .top-bar-navigation .top-bar-content .question-section {
+    font-size: 10px;
+}
+  /* ======================================================
+  ================== Recent News Home =====================
+  ====================================================== */
+  .recent-news-section .news-main-content .news-sec .news-item {
+      display: block;
+  }
+  .recent-news-section .news-main-content .news-sec .news-item .news-image img {
+  width: 70%;
+  margin: auto;
+  display: block;
+  margin-bottom: 30px;
+  }
+  .recent-news-section .news-main-content .news-sec .news-item {
+      display: block;
+  }
+  .recent-news-section .news-main-content .news-sec .news-item .news-content {
+      margin-left: 0;
+  }
+  .recent-news-section .news-main-content .news-sec {
+      border: 1px solid #AAA;
+      padding: 24px;
+      background: #eee;
+      border-radius: 68px;
+  }
+  /* ======================================================
+  ================ Recent Events Section ==================
+  ====================================================== */
+  .recent-events-section .recent-events-content .our-events .event-item .event-img {
+      width: 90%;
+  }
+  .recent-events-section .recent-events-content .our-events {
+      display: block;
+  }
+  .recent-events-section .recent-events-content .our-events .event-item {
+      margin-right: 20px;
+      margin-left: 20px;
+  }
+  .recent-events-section .recent-events-content .our-events .event-item .event-content .event-date {
+      font-size: 11px;
+  }
+  /* ======================================================
+  ==========  why faculty content section ===========
+  ====================================================== */
+  .why-faculty-section .why-faculty-content .why-study {
+      width: 100%;
+  }
+  .why-faculty-section .why-faculty-content .why-study .why-study-left button {
+      position: unset;
+      margin: auto;
+      display: block;
+  }
+    /* ======================================================
+================== start about us pages   ===============
+====================================================== */
+.faculty-departments-section .faculty-department-content .department-items .department-item {
+    flex: 0 0 50%;
+}
+.faculty-departments-section .faculty-department-content .department-items .department-item:nth-child(3):after {
+    display: block;
+}
+.faculty-departments-section .faculty-department-content .department-items .department-item:nth-child(even):after {
+    display: none;
+}
+ /* ======================================================
+  ======================= Events =====================
+  ====================================================== */
+  .event-block-2 {
+    flex-wrap: wrap;
+    margin: 20px 10%;
+}
+.event-block-2 .event-image {
+  flex: 0 0 100%;
+}
+.event-block-2 .event-image .field__item a img {
+    border-radius: 20px;
+}
+.event-block-2 .content-inner {
+    padding: 20px;
+}
+/* ======================================================
+  ======================= events and news ===============
+  ====================================================== */
+  .event-full .event-info .date {
+      flex-wrap: wrap;
+  }
+/* ======================================================
+  ================== burger menu ========================
+  ====================================================== */
+  .main-menu #menu-bar {
+    top: -220px;
+    right: 0;
+  }
+  .stuck .main-menu #menu-bar {
+    top: -20px !important;
+    right: 0;
+  }
+}
+
+
+
+
+@media(max-width: 576px) {
+    .doctorate-program-courses .categories .category {
+        width: 26%;
+    }
+    .doctorate-program-courses .categories .category .img {
+        border-right: unset;
+    }
+    .doctorate-program-courses .doctorate-program-courses-content ul li {width: 97%;}
+}
+@media(max-width: 550px) {
+  /* ======================================================
+  ======================= Top bar =====================
+  ====================================================== */
+  .top-bar-navigation {
+      font-size: 12px;
+  }
+  .top-bar-navigation .top-bar-content .social-media-section .login::after {
+      display: none;
+  }
+  .top-bar-navigation .top-bar-content .social-media-section .login {
+      margin-left: 0;
+  }
+  .top-bar-navigation .top-bar-content .question-section .question {
+      display: none;
+  }
+  .top-bar-navigation .top-bar-content .question-section .languages a.btn {
+      font-size: 12px;
+  }
+}
+
+@media (max-width: 768px) {
+    .recent-news-block {
+        min-height: 430px;
+    }
+
+    .news-archive #views-exposed-form-news-archive-page-1 .js-form-item,
+    .news-archive #views-exposed-form-news-archive-page-1 #edit-actions input {
+        flex: 0 0 100%;
+    }
+    .news-archive #views-exposed-form-news-archive-page-1 {
+        flex-wrap: wrap;
+    }
+    .news-archive #views-exposed-form-news-archive-page-1 #edit-actions {
+        float: none;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .recent-news-block .views-field-field-news-image .field-content a {
+        text-align: center;
+    }
+}
+
+
+
+@media(max-width: 500px) {
+  /* ======================================================
+  ========== ADMINISTRATION Section ===========
+  ====================================================== */
+  .adminstration-section .adminstration-content .main-content h3 {
+      font-size: 18px;
+      text-align: center;
+  }
+  .adminstration-section .adminstration-content .main-content .dean-signature h4 {
+      text-align: center;
+  }
+  /* ======================================================
+  ==============  why faculty content section =============
+  ====================================================== */
+  .why-faculty-section .why-faculty-content .why-study .why-study-left h3 {
+      font-size: 27px;
+  }
+  .why-faculty-section .why-faculty-content .why-study .why-study-left .bold-caption {
+      font-size: 12px;
+  }
+  .why-faculty-section .why-faculty-content .why-study .why-study-left .caption {
+      font-size: 12px;
+  }
+}
+
+@media (min-width: 992px) {
+    /* #################### Dean of The faculty of Nursing ################### */
+.about-admin {
+    margin-bottom: 50px;
+}
+}
+
+
+@media(max-width: 400px) {
+  /* ======================================================
+  ======================= Top bar =====================
+  ====================================================== */
+  .top-bar-navigation {
+      font-size: 10px;
+  }
+  .top-bar-navigation .top-bar-content .topbar-right #top_bar_user .login_link {
+      margin-left: 0;
+  }
+}
+
+
+
+
+
+@media (min-width: 992px) {
+      /* ======================================================
+  ===================  theme  =====================
+  ====================================================== */
+    .navigation .gva_menu > li > a {
+        padding: 20px 7px;
+        font-size: 12px;
+    }
+    .navigation .gva_menu {
+        float: none;
+        text-align: center;
+    }
+    .navigation .gva_menu .sub-menu {
+        background-color: var(--main-color);
+    }
+    .navigation .gva_menu .sub-menu > li > a {
+        color: #fff;
+        margin-bottom: 0;
+        padding-bottom: 5px;
+        padding-top: 5px;
+    }
+    .navigation .gva_menu .sub-menu > li > a:hover {
+        color: var(--main-color);
+    }
+    .navigation .gva_menu .sub-menu > li:hover {
+        background: #eee;
+    }
+}
+
+
+
+
+@media (min-width: 1200px) {
+    .header-v2 .container,
+    .header-v1 .container {
+        width: 90%;
+    }
+}
+
+
+
+
+/* ====================================================================
+  ===================  theme navigation menu all media ================
+  ====================================================== =============*/
+@media (min-width: 1180px) and (max-width: 1250px) {
+
+  header.header-v2 .navigation .gva_menu > li > a,
+  header.header-v1 .navigation .gva_menu > li > a {
+      font-size: 10px;
+  }
+}
+@media (max-width: 1400px) {
+    .header-v2 .container,
+    .header-v1 .container {
+        width: 100% !important;
+    }
+}
+@media (min-width: 991px) and (max-width: 1180px) {
+    header.header-v2 .navigation .gva_menu > li > a,
+    header.header-v1 .navigation .gva_menu > li > a {
+        font-size: 9px;
+    }
+    .navigation .gva_menu > li > a {
+        padding: 20px 4px;
+    }
+}
+@media(max-width: 991px) {
+    .header-v2 .gbb-row-wrapper .bb-container .row,
+    .header-v1 .gbb-row-wrapper .bb-container .row {
+        margin-top: 0;
+    }
+    #top_header_menu_div #block-topheadermenu .block-content ul li:last-child::before {
+        display: none;
+    }
+    #top_header_menu_div #block-topheadermenu .block-content ul {
+        list-style: none;
+    }
+    #top_bar_user #block-useraccountmenu .block-content .gva_menu .menu-item ul {
+        display: none;
+    }
+}
+@media(max-width: 768px) {
+    #search_div #block-searchform #js-form-type-search input {
+        width: 250px;
+        display: block;
+        margin: auto;
+    }
+}
+@media (min-width: 991px) {
+    header.header-v2 .navigation .gva_menu > li.menu-item--active-trail > a,
+    header.header-v1 .navigation .gva_menu > li.menu-item--active-trail > a {
+        color: #fff !important;
+        font-size: 15px;
+        font-weight: bold;
+    }
+    header.header-v2 .stuck .navigation .gva_menu > li > a:hover
+    header.header-v1 .stuck .navigation .gva_menu > li > a:hover {
+        color: #fff !important;
+    }
+    header.header-v2 .stuck .navigation .gva_menu > li > a,
+    header.header-v1 .stuck .navigation .gva_menu > li > a {
+        color: #fff !important;
+    }
+    .navigation .gva_menu > li > a:after, .navigation .gva_menu > li > a:active {
+        color: #fff;
+    }
+    #block-mainnavigation .gva_menu_main li a {
+        color: #fff;
+    }
+    .navigation .gva_menu .sub-menu > li:hover a {
+        color: var(--main-color) !important;
+    }
+
+}
+@media(max-width: 600px) {
+    .header-v2 .gbb-row-wrapper .bb-container .row,
+    .header-v1 .gbb-row-wrapper .bb-container .row {
+        flex-wrap: wrap;
+        padding: 12px;
+    }
+    .branding-logo {
+        flex: 0 0 100%;
+        justify-content: center;
+    }
+    .branding-logo .site_info h1 {
+        font-size: 25px;
+        margin-bottom: 2px;
+    }
+    .aun-home {
+        margin: auto;
+        text-align: center;
+        margin-top: 10px;
+    }
+    #top_header_content_div #top_header_menu_div .gva_menu .menu-item {
+        display: inline-block;
+        padding: 0;
+    }
+    #search_div #block-searchform #js-form-type-search i {
+        top: 11px;
+        right: 40px;
+    }
+    #top_header_menu_div #block-topheadermenu .block-content ul li a {
+        margin-left: 0;
+        padding: 10px;
+    }
+    header.header-v2 .navigation .gva_menu > li > a::after,
+    header.header-v1 .navigation .gva_menu > li > a::after {
+        top: 12px;
+    }
+    header.header-v1 .gbb-row-wrapper .bb-container .row {
+        padding: 15px 0;
+    }
+}
+
+
+/****** news events and department *******/
+@media(max-width:1199px){
+    .staff-members .item-columns {
+        width: 41%;
+    }
+}
+@media(max-width:991px){
+    .news-events .news-block{
+        display: flex;
+        justify-content: space-between;
+    }
+    .news-events .tabs-left li .tab-content .news_title {
+        font-size: 12px;
+        padding: 7px 0 0 5px;
+    }
+    .news-events .tabs-left li .news_date {
+        font-size: 16px;
+        padding: 0 0 0 2px;
+    }
+    .news-events .tab-content-right .news-content p {
+        font-size: 18px;
+    }
+    .news-events .tab-content-right .news-title a {
+        font-size: 16px;
+    }
+    .departments-page-view .item-columns .views-field-title .field-content a {padding: 20px 15px 10px 15px; font-size: 15px;}
+}
+
+@media(max-width:768px){
+    .news-events .field--type-text-with-summary {
+        flex-direction: column;
+    }
+    .news-events .news-main-content {
+ display: none;
+    }
+    .news-events .news-side-content {
+        width: 100%;
+    }
+    .news-events .news_home_more{
+        width: 170px;
+    }
+    .news-events .news_home_title h2 {
+        font-size: 42px;
+    }
+    .news-events .news_home_more a{
+        width: 100%;
+        padding: 13px 22px !important;
+        font-size: 16px;
+        text-align: center;
+    }
+    .news-events .news-side-content ul{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .news-events .tabs-left li {
+       width: 80%;
+       margin: auto;
+       display: block;
+       margin-bottom: 30px;
+    }
+    .news-events .news-img img{
+        width: 100%;
+    }
+    .departments-page-view .item-columns ,
+    .view-staff-page .item-columns {
+        width: 46%;
+    }
+
+
+
+}
+@media(max-width:576px){
+    .staff-members .item-columns ,
+    .view-staff-page .item-columns {
+        width: 95%;
+    }
+    .staff-members .gva-view-grid-inner ,
+    .view-staff-page .gva-view-grid-inner {
+        justify-content: center;
+    }
+    .view-staff-page #views-exposed-form-department-members-block-1{
+        align-items: center;
+        flex-direction: column;
+    }
+    .view-staff-page #views-exposed-form-department-members-block-1 #edit-actions--2 {
+        width: 170px;
+    }
+
+}
+@media(max-width:375px){
+    .news-events .tabs-left li {
+        width: 100%;
+    }
+    .news-events .field--type-text-with-summary .news_home_more .btn-theme {
+        padding: 13px 15px !important;
+        font-size: 15px;
+    }
+    .departments-page-view .item-columns {
+        width: 95%;
+    }
+    .departments-page-view .gva-view-grid-inner {
+        justify-content: center;
+    }
+    .doctorate-program-courses h2 {
+        font-size: 20px;
+        margin-bottom: 28px;
+    }
+
+}
+
+/* To be transfered to custom file */
+.whitewzSidebar {
+    background: #fff;
+    padding: 50px 50px;
+    margin: 40px 0;
+    border-radius: 60px;
+}
+
+.imgFullSizeBorder img {
+    width: 100%;
+    height: 270px;
+    border-radius: 70px;
+    object-fit: fill;
+}
+
+.js-form-type-vertical-tabs .vertical-tabs{
+    display: none !important;
+}
+/********** start responsive ************/
+.user-page > div{
+    background: #FFF;
+    border-radius: 20px;
+    margin: 30px 0;
+    padding: 20px;
+    display: inline-block;
+    width: 100%;
+}
+.user-information .user-data .user-image img{
+    border-radius: 10px;
+}
+.user-information .user-name-info h2{
+    font-size: 30px;
+    font-weight: 600;
+    margin: 15px 0;
+}
+.user-information .user-name-info h4{
+    font-size: 30px;
+    font-weight: 600;
+    margin: 10px 0;
+    color: #620C7B;
+}
+.user-information .user-name-info p{
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.37);
+    font-weight: 600;
+    margin: 10px 0;
+}
+.user-switch ul::before,
+.user-switch ul::after{
+    display: none;
+}
+.user-page .user-switch ul{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.user-page .user-switch ul li{
+    width: 14%;
+}
+.user-page .user-switch ul li p{
+    text-align: center;
+}
+.user-page .user-switch ul li img{
+    margin: auto;
+    display: block;
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+.user-page .user-switch .view-content-wrap .views-field{
+    margin: 15px 0;
+}
+.user-page .user-switch .view-content-wrap .views-field span{
+    font-size: 18px;
+    font-weight: 600;
+}
+@media(max-width:991px){
+    .user-page .user-switch ul li{
+        width: 33%;
+    }
+}
+@media(max-width:576px){
+    .user-page .user-switch ul li{
+        width: 45%;
+    }
+}
+
+@media(max-width:320px){
+    .doctorate-program-courses .categories .category .description p {
+        font-size: 10px;
+    }
+}
+/* side bar  display */
+@media (max-width: 991px) {
+    .sidebar-right .sidebar-inner .block {
+        display: none;
+    }
+    .department-sidebar-right {
+        display: block !important;
+    }
+}
+@media (max-width: 768px) {
+    #node-research-form #edit-title-wrapper .js-form-item,
+#node-research-form #edit-field-research-member-wrapper .js-form-item,
+#node-research-form #edit-field-research-journal-wrapper .js-form-item,
+#node-research-form #edit-field-research-end-wrapper,
+#node-research-form #edit-field-award-field-wrapper,
+#node-research-form #edit-field-research-publisher-wrapper .js-form-item,
+#node-research-form #edit-field-research-website-wrapper .js-form-item,
+#node-research-form #edit-field-research-year-wrapper .js-form-item,
+#node-research-form #edit-field-research-pages-wrapper .js-form-item,
+#node-research-form #edit-field-research-rank-wrapper .js-form-item,
+#node-research-form #edit-field-research-authors-wrapper .js-form-item,
+#node-research-form #edit-field-research-user-wrapper .js-form-item,
+#node-research-form #edit-field-research-vol-wrapper .js-form-item,
+#node-research-form #edit-field-research-department-wrapper .js-form-item,
+#node-research-form #edit-field-research-date-wrapper,
+#node-awards-form #edit-title-wrapper .js-form-item,
+#node-awards-form #edit-field-awards-member-wrapper .js-form-item,
+#node-awards-form #edit-field-awards-department-wrapper .js-form-item,
+#node-awards-form #edit-field-awards-end-wrapper,
+#node-awards-form #edit-field-award-field-wrapper,
+#node-awards-form #edit-field-award-field-wrapper .js-form-item,
+#node-awards-form #edit-field-award-year-wrapper .js-form-item,
+#node-awards-form #edit-field-award-category-wrapper .js-form-item,
+#node-awards-form #edit-field-award-field-category-wrapper .js-form-item,
+#node-awards-form #edit-field-award-date-wrapper,
+#node-news-form #edit-title-wrapper .js-form-item,
+#node-news-form #edit-field-news-address-wrapper .js-form-item,
+#node-news-form #edit-field-news-time-wrapper .js-form-item,
+#node-news-form #edit-field-news-date-wrapper,
+#node-news-form #edit-field-news-map-wrapper .js-form-item,
+#node-event-form #edit-title-wrapper .js-form-item,
+#node-event-form #edit-field-event-address-wrapper .js-form-item,
+#node-event-form #edit-field-event-time-wrapper .js-form-item,
+#node-event-form #edit-field-event-end-wrapper,
+#node-event-form #edit-field-event-start-wrapper,
+#node-event-form #edit-field-event-map-wrapper .js-form-item {
+    flex-wrap: wrap;
+}
+#node-research-form #edit-title-wrapper .js-form-item input,
+#node-research-form #edit-field-research-journal-wrapper .js-form-item input,
+#node-research-form #edit-field-research-department-wrapper .js-form-item input,
+#node-research-form #edit-field-research-map-wrapper .js-form-item input,
+#node-research-form #edit-field-research-publisher-wrapper .js-form-item input,
+#node-research-form #edit-field-research-website-wrapper .js-form-item input,
+#node-research-form #edit-field-research-year-wrapper .js-form-item input,
+#node-research-form #edit-field-research-pages-wrapper .js-form-item input,
+#node-research-form #edit-field-research-rank-wrapper .js-form-item input,
+#node-research-form #edit-field-research-authors-wrapper .js-form-item input,
+#node-research-form #edit-field-research-user-wrapper .js-form-item input,
+#node-research-form #edit-field-research-vol-wrapper .js-form-item input,
+#node-research-form #edit-field-research-date-wrapper .js-form-item input,
+#node-awards-form #edit-title-wrapper .js-form-item input,
+#node-awards-form #edit-field-awards-member-wrapper .js-form-item input,
+#node-awards-form #edit-field-awards-department-wrapper .js-form-item input,
+#node-awards-form #edit-field-awards-map-wrapper .js-form-item input,
+#node-awards-form #edit-field-award-field-wrapper .js-form-item input,
+#node-awards-form #edit-field-award-year-wrapper .js-form-item input,
+#node-awards-form #edit-field-award-category-wrapper .js-form-item select,
+#node-awards-form #edit-field-award-field-category-wrapper .js-form-item select,
+#node-awards-form #edit-field-award-date-0-value,
+#node-news-form #edit-title-wrapper .js-form-item input,
+#node-news-form #edit-field-news-address-wrapper .js-form-item input,
+#node-news-form #edit-field-news-time-wrapper .js-form-item input,
+#node-news-form #edit-field-news-map-wrapper .js-form-item input,
+#node-event-form #edit-title-wrapper .js-form-item input,
+#node-event-form #edit-field-event-address-wrapper .js-form-item input,
+#node-event-form #edit-field-event-time-wrapper .js-form-item input,
+#node-event-form #edit-field-event-map-wrapper .js-form-item input {
+    width: 100%;
+}
+}
+
+.buildings .building-img {
+    overflow: hidden;
+  }
+  .buildings .building-img img{
+    width: 100%;
+  }
+  @media (min-width: 991px) {
+    .buildings {
+        flex: 0 0 48%;
+    }
+    .buildings {
+        display: flex;
+        align-items: center;
+        margin-bottom: 20px;
+        justify-content: center;
+    }
+    .buildings .building-img {
+        margin-right: 80px;
+    }
+    .buildings .building-content{
+        margin-top: 80px;
+    }
+  }
+
+  @media (max-width: 991px) {
+    .buildings .building-img {
+        margin: auto;
+        text-align: center;
+    }
+    .buildings .building-img img , .buildings .building-content p{
+        padding: 3%;
+    }
+    .buildings > div {
+      box-shadow: 0px 0px 10px #000;
+      border-radius: 60px;
+      padding: 18px;
+      margin: 25px;
+      width: 80%;
+    }
+  }
+
